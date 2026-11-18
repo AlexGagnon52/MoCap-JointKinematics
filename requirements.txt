@@ -1,0 +1,4 @@
+numpy
+matplotlib
+ezc3d
+jupyterlab
